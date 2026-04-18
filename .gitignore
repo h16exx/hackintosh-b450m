@@ -1,0 +1,13 @@
+*.log
+*.txt
+*.tmp
+*.bak
+*.backup
+.contentFlavour
+.contentVisibility
+.DS_Store
+Thumbs.db
+EFI/OC/config.plist
+EFI/OC/Logs/
+EFI/OC/Opencore.efi.bak
+

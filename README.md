@@ -1,1 +1,2 @@
-# hackintosh-b450m
+# hackintosh-efi
+My EFI files
