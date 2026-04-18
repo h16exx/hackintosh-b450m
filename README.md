@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="screenshots/about-this-mac.png" width="70%" alt="About This Mac">
+  <img src="screenshots/about.png" width="70%" alt="About This Mac">
 </div>
 
 ##Setup:
