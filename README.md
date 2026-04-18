@@ -1,6 +1,9 @@
 <div align="center">
   <img src="screenshots/about.png" width="30%" alt="About This Mac - Sequoia 15.6.1">
 </div>
+--------------------------------------------------------------------------------------------
+
+## Hardware
 
 <table>
     <tr>
@@ -24,11 +27,32 @@
       <td>WD Black 512 GB</td>
     </tr>
     <tr>
-      <td>Power</td>
-      <td>Super Flower HX550W 80 Plus Gold</td>
-    </tr>
-    <tr>
       <td>Ethernet</td>
       <td>Realtek RTL8125B</td>
     </tr>
 </table>
+--------------------------------------------------------------------------------------------
+
+## Working (tested)
+
+- [x] Audio
+- [x] Hardware acceleration & dGPU
+- [x] Monitor
+- [x] Shutdown, Sleep, Wake, Restart
+- [x] App Store
+- [x] USB
+- [x] DP ports
+--------------------------------------------------------------------------------------------
+
+## Does not work
+
+- [ ] idk
+
+--------------------------------------------------------------------------------------------
+
+## Not tested
+
+- [ ] External WiFi & Bluetooth
+- [ ] HDMI
+- [ ] FileVault
+- [ ] AirDrop, iMessage, AirPlay, FaceTime
