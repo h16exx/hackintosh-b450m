@@ -2,8 +2,6 @@
   <img src="screenshots/about.png" width="30%" alt="About This Mac - Sequoia 15.6.1">
 </div>
 
-
-
 ## Hardware
 
 <table>
@@ -50,7 +48,6 @@
 
 ## Not tested
 
-- [ ] External WiFi & Bluetooth
 - [ ] HDMI
 - [ ] FileVault
-- [ ] AirDrop, iMessage, AirPlay, FaceTime
+- [ ] AirDrop, iMessage, AirPlay, FaceTime etc.
